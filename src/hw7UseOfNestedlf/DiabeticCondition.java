@@ -24,6 +24,7 @@ public class DiabeticCondition {
 
 		}
 		System.out.println("Thank You!");
-
+        
+		scanner.close();
 	}
 }
